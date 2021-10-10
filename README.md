@@ -7,3 +7,5 @@
 - Normalize
 - JavaScript
 - Fancybox
+
+demo: https://riva-sm.github.io/cinema-project/
